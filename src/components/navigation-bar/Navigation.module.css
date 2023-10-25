@@ -16,7 +16,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.5rem 5rem;
+  padding: 1rem 5rem;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -54,6 +54,7 @@
     padding: 0.5rem 1rem;
     flex-direction: column;
     height: 4.3rem;
+    justify-content: center;
   }
   .HamBurger {
     display: block;
@@ -126,6 +127,8 @@
     padding: 0.5rem 2rem;
     flex-direction: column;
     height: 4.3rem;
+    justify-content: center;
+
   }
   .HamBurger {
     display: block;
